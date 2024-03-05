@@ -29,5 +29,4 @@ export default function RenderItem({tarea, markDone, deleteFunction}:ItemProps){
           }
         </View>
       );
-      
 }
